@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/BlandFancyElkhound-size_restricted.gif)](https://srcybersec.io)
+[![MasterHead](https://cdn.theatlantic.com/thumbor/EyIGWRWgOmePbV-cZKnzW9PCXpo=/media/img/posts/2016/10/hack_attempt-1/original.gif)](https://srcybersec.io)
 <h1 align="center">Hi 👋, I'm Prometheus</h1>
 <h3 align="center">“It’s important to remember that with great power comes great responsibility.” 🕸☕️👌</h3>
 
