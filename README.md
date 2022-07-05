@@ -1,4 +1,4 @@
-[![MasterHead](https://wiki.hackforums.net/images/6/65/Root_%28Banner%29.gif)](https://srcybersec.io) align="center"
+[![MasterHead](https://wiki.hackforums.net/images/6/65/Root_%28Banner%29.gif)](https://srcybersec.io) 
 <h1 align="center">Hi 👋, I'm Prometheus</h1>
 <h3 align="center">“It’s important to remember that with great power comes great responsibility.” 🕸☕️👌</h3>
 
