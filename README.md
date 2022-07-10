@@ -8,9 +8,7 @@
 <p align="left"> <a href="https://twitter.com/shreerammallick" target="blank"><img src="https://img.shields.io/twitter/follow/shreerammallick?logo=twitter&style=for-the-badge" alt="shreerammallick" /></a> </p>
 <img align="right" src="https://c.tenor.com/tm3KA5yrnmMAAAAM/hacker-man-hacker.gif" width="400px" >
 
-- 🌱 I’m currently learning **s**
-
-- 🤝 I’m looking for help with **cyber security**
+- 🌱 I’m currently learning **pentesting**
 
 - 👨‍💻 All of my projects are available at [s](s)
 
